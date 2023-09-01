@@ -1,7 +1,6 @@
 package com.example.jokeappbajud.Adapter;
 
 import android.graphics.Color;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -19,29 +18,6 @@ import com.example.jokeappbajud.R;
 import com.example.jokeappbajud.fragment.Jokes;
 
 import java.util.List;
-
-
-
-
-import android.graphics.Color;
-import android.util.Log;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.TextView;
-
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.cardview.widget.CardView;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentManager;
-import androidx.fragment.app.FragmentTransaction;
-import androidx.recyclerview.widget.RecyclerView;
-
-import java.util.List;
-
-import com.example.jokeappbajud.R;
-import com.example.jokeappbajud.fragment.Jokes;
 
 public class JokeCatAdapter extends RecyclerView.Adapter<JokeCatAdapter.ViewHolder> {
     List<String> categories;
