@@ -10,8 +10,8 @@
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
 | <img src= "1.png" width="80%" height="70%"> | <img src= "2.png" width="80%" height="70%"> | <img src= "3.png" width="80%" height="70%"> |
-| <img src= "https://user-images.githubusercontent.com/85965606/221394572-797c28dd-c749-4b71-a4da-fdcc8f7a3b17.png" width="80%" height="70%"> | <img src= "https://user-images.githubusercontent.com/85965606/221394882-7a325925-24b9-48c6-bee3-52502ee16ace.png" width="80%" height="70%"> | <img src= "https://user-images.githubusercontent.com/85965606/221394574-77e22e12-e32c-44c3-baff-3a221b4ee08c.png" width="80%" height="70%"> |
-|  | <img src= "https://user-images.githubusercontent.com/85965606/221394573-599491de-580d-4e0b-a43b-440cc1a6309b.png" width="80%" height="70%">  |
+| <img src= "4.png" width="80%" height="70%"> | <img src= "5.png" width="80%" height="70%"> | <img src= "6.png" width="80%" height="70%"> |
+| <img src= "7.png" width="80%" height="70%"> | <img src= "8.png" width="80%" height="70%"> | <img src= "9.png" width="80%" height="70%"> |
 
 
 
